@@ -20,7 +20,7 @@ HTML, CSS, JavaScript
 Python, Django
 Basic Java
 
-🚀 Looking for: Internships and job opportunities in software development, DevOps, or cloud engineering.
+🚀 Looking for: Job opportunities in software development, DevOps, or cloud engineering.
 
 📫 Reach me at: mdmuzamill36@gmail.com
 💼 LinkedIn www.linkedin.com/in/mohammed-muzamill-888a60196
