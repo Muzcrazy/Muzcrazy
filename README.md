@@ -16,9 +16,13 @@ DevOps & Cloud Engineering
 🌱 Skills:
 
 • Languages: Python, , Basic Javascript, MySql
+
 • Web Development: Front-end (HTML5, CSS3 ) , Flask
+
 • Data Analysis & Visualization: Power BI, Excel, Pandas, MySQL
+
 • Cloud: Basic AWS (EC2, S3 usage, IAM user management), Basic Boto3
+
 • DevOps Tools: Git, GitHub, Docker (basic usage), Linux, Bash, SSH
 • Version Control : Git, GitHub
 • SDLC / Agile: Agile workflow (Scrum, Standups, Sprints)
