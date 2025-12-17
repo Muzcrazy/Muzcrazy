@@ -24,12 +24,19 @@ DevOps & Cloud Engineering
 • Cloud: Basic AWS (EC2, S3 usage, IAM user management), Basic Boto3
 
 • DevOps Tools: Git, GitHub, Docker (basic usage), Linux, Bash, SSH
+
 • Version Control : Git, GitHub
+
 • SDLC / Agile: Agile workflow (Scrum, Standups, Sprints)
+
 • Tools: PuTTY, MobaXterm, WinSCP, VS Code,
+
 • AI-Assisted Development: ChatGPT, Claude (research, debugging, problem-solving)
+
 • Areas of Interest: Data Engineering, Devops, Cloud Computing,
+
 • Soft Skills: Problem-solving, communication, adaptability, and teamwork.
+
 • Research & Troubleshooting: Googling, AI Tools for Problem Solving
 
 💼 Certifications:
