@@ -1,52 +1,21 @@
-👋 Hi, I'm Mohammed Muzamil, a passionate Computer Science and Design student.
-I love building innovative solutions.
-Computer Science graduate with hands-on experience in web development, Python automation, and modern
-development workflows. Proven ability to deliver real-world solutions by efficiently leveraging cutting-edge
-tools and platforms. Currently expanding expertise in DevOps and Cloud Computing while seeking
-opportunities to contribute to innovative tech teams focused on practical problem-solving and rapid solution
-delivery
-
-🔭 Currently Learning:
-
-Python 
-Full Stack Web Development
-DevOps & Cloud Engineering
+# 💫 About Me:
+I’m a Computer Science graduate and Web Developer with hands-on experience in building AI-powered web applications, automation scripts, and backend systems. I enjoy working on real-world problems using Python, JavaScript, SQL, and modern web technologies.<br><br>Currently, I’m focused on improving my skills in DevOps, Cloud, and AI-assisted development while building practical projects that solve meaningful problems.
 
 
-🌱 Skills:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muzcrazy_64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Muzamil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmuzamill36@gmail.com) 
 
-• Languages: Python, , Basic Javascript, MySql
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muzcrazy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Muzcrazy&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzcrazy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-• Web Development: Front-end (HTML5, CSS3 ) , Flask
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-• Data Analysis & Visualization: Power BI, Excel, Pandas, MySQL
+---
+[![](https://visitcount.itsvg.in/api?id=Muzcrazy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-• Cloud: Basic AWS (EC2, S3 usage, IAM user management), Basic Boto3
-
-• DevOps Tools: Git, GitHub, Docker (basic usage), Linux, Bash, SSH
-
-• Version Control : Git, GitHub
-
-• SDLC / Agile: Agile workflow (Scrum, Standups, Sprints)
-
-• Tools: PuTTY, MobaXterm, WinSCP, VS Code,
-
-• AI-Assisted Development: ChatGPT, Claude (research, debugging, problem-solving)
-
-• Areas of Interest: Data Engineering, Devops, Cloud Computing,
-
-• Soft Skills: Problem-solving, communication, adaptability, and teamwork.
-
-• Research & Troubleshooting: Googling, AI Tools for Problem Solving
-
-💼 Certifications:
-
-Python Programming (edX)
-AI For India 2.0 (Pupilfirst)
-Basic Game Development (Coursera)
-
-
-🚀 Looking for: Job opportunities in software development, DevOps, or cloud engineering and Data Analyst.
-
-📫 Reach me at: mdmuzamil1017@gmail.com
-💼 LinkedIn www.linkedin.com/in/mohammed-muzamill-888a60196
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
