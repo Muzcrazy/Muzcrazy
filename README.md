@@ -3,7 +3,7 @@ I’m a Computer Science graduate and Web Developer with hands-on experience in 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muzcrazy_64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammed Muzamil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmuzamill36@gmail.com) [![Portfolio](https://mohammedmuzamil.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muzcrazy_64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammed Muzamil](https://www.linkedin.com/in/mohammed-muzamill-888a60196/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmuzamill36@gmail.com) [![Portfolio]](https://mohammedmuzamil.vercel.app)
 
 
 # 💻 Tech Stack:
